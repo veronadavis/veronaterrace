@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Verona Terrace
 
-You can use the [editor on GitHub](https://github.com/veronadavis/veronaterrace/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Are you a resident of Verona Terrace, Ramita Terrace, Cubre Terrace, and Nido Terrace in Davis, California?
+Or are you looking to buy a home in Verona Terrace, Ramita Terrace, Cubre Terrace, and Nido Terrace?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well read this!
 
-### Markdown
+Did you know that the HOA is proposing a rule to charge $120 a month to park in front of your own home?
+Did you know that many of the homes in the Verona Terrace area are affordable housing with one car garages and tiny homes?
+The garages of some units in the neighborhood, even when they are supposed "two car garages" are too narrow to fit two cars, yet the HOA wants thinks that charging people who have no other place to park 100 dollars a month is a good solution. They think that the ability for other homes with a driveway and a two car garage, homes that can fit four people, to have guests over far outweights the ability of an essential worker to be able to park in front of their home after a long hard day's work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Be careful and think twice about buying a home in this neighborhood!! You may not be happy when you are on the hook for thousands of dollars in parking fees just to park in front of your own house! You may not be happy when they request "garage inspections". You may not be happy when you get a letter in the mail because your garbage can is showing since you can't put both your three trash bins and your car in your single car garage.
 
-```markdown
-Syntax highlighted code block
+If you're a prospective home buyer, I recommend looking elsewhere! If you're a current owner, send your feedback to:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veronadavis/veronaterrace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Denice Duncan
+d.duncan@hignell.com
+The Hignell Companies,
+6556 Lonetree Blvd
+#102 Rocklin CA
