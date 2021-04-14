@@ -5,7 +5,7 @@ Or are you looking to buy a home in Verona Terrace, Ramita Terrace, Cubre Terrac
 
 Well read this!
 
-Did you know that the HOA is proposing a rule to charge $120 a month to park in front of your own home?
+Did you know that the HOA is proposing a rule to charge $1200 a year to park in front of your own home?
 Did you know that many of the homes in the Verona Terrace area are affordable housing with one car garages and tiny homes?
 The garages of some units in the neighborhood, even when they are supposed "two car garages" are too narrow to fit two cars, yet the HOA wants thinks that charging people who have no other place to park 100 dollars a month is a good solution. They think that the ability for other homes with a driveway and a two car garage, homes that can fit four people, to have guests over far outweights the ability of an essential worker to be able to park in front of their home after a long hard day's work.
 
